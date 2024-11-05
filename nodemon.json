@@ -1,0 +1,6 @@
+{
+  "ext": "js,ts",
+  "watch": ["dist/**"],
+  "ignore": ["*.test.*", "*.tests.*", "**/tests/**"],
+  "delay": 500
+}
