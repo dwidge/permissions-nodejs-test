@@ -1,6 +1,6 @@
 {
   "name": "@dwidge/permissions-nodejs-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -26,6 +26,6 @@
     "nodemon": "^3.1.7",
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.3"
   }
 }
